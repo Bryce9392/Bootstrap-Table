@@ -1,6 +1,15 @@
 <?php
 
 /**
+* Plugin Name: Bootstrap Table
+* Plugin URI: https://www.yourwebsiteurl.com/
+* Description: Bootstrap Table
+* Version: 1.0
+* Author: Bryce
+* Author URI: http://yourwebsiteurl.com/
+**/
+
+/**
  * enqueue style and scripts
  */
 function bootstrap_table_scripts() {
